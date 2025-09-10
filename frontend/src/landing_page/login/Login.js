@@ -27,7 +27,7 @@ function Login() {
       if (response.data.success) {
         console.log("✅ Login success. Token/User Data:", response.data);
         setMessage("Login successful ✅");
-        window.location.href = "http://localhost:3001";
+        window.location.href = "https://zerodha-backend-4w7p.onrender.com";
 
         setTimeout(() => {
           console.log("➡️ Redirecting to /dashboard");
