@@ -48,7 +48,7 @@ function Footer() {
           <h5 className="fw-bold mb-4">Connect with us</h5>
           <div className="d-flex justify-content-center align-items-center gap-4">
   <a
-    href="https://www.instagram.com/karthik_gouda01//"
+    href="https://www.instagram.com/karthik_gouda01/"
     target="_blank"
     rel="noopener noreferrer"
     aria-label="Instagram"
