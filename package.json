@@ -1,0 +1,20 @@
+{
+  "name": "zerodha-clone",
+  "version": "1.0.0",
+  "description": "- ✅ User Signup & Login - ✅ JWT-based Authentication (cookie-based sessions) - ✅ Dashboard to view Holdings and Positions - ✅ Order Simulation (Buy Stock) - ✅ Backend REST API with MongoDB - ✅ Secure CORS and Cookie Handling - ✅ Fully responsive UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karthikgouda15/Zerodha-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karthikgouda15/Zerodha-/issues"
+  },
+  "homepage": "https://github.com/Karthikgouda15/Zerodha-#readme"
+}
