@@ -16,31 +16,31 @@ function Footer() {
 
           <div className='col'>
             <p>Company</p>
-            <a className='text-muted' href="#" style={{ textDecoration: 'none' }}>About</a><br />
-            <a className='text-muted' href="#" style={{ textDecoration: 'none' }}>Products</a><br />
-            <a className='text-muted' href="#" style={{ textDecoration: 'none' }}>Pricing</a><br />
-            <a className='text-muted' href="#" style={{ textDecoration: 'none' }}>Referral programme</a><br />
-            <a className='text-muted' href="#" style={{ textDecoration: 'none' }}>Careers</a><br />
-            <a className='text-muted' href="#" style={{ textDecoration: 'none' }}>Zerodha.tech</a><br />
-            <a className='text-muted' href="#" style={{ textDecoration: 'none' }}>Open source</a><br />
-            <a className='text-muted' href="#" style={{ textDecoration: 'none' }}>Press & media</a><br />
-            <a className='text-muted' href="#" style={{ textDecoration: 'none' }}>Zerodha Cares (CSR)</a><br />
+            <a className='text-muted' href="/footers" style={{ textDecoration: 'none' }}>About</a><br />
+            <a className='text-muted' href="/footers" style={{ textDecoration: 'none' }}>Products</a><br />
+            <a className='text-muted' href="/footers" style={{ textDecoration: 'none' }}>Pricing</a><br />
+            <a className='text-muted' href="/footers" style={{ textDecoration: 'none' }}>Referral programme</a><br />
+            <a className='text-muted' href="/footers" style={{ textDecoration: 'none' }}>Careers</a><br />
+            <a className='text-muted' href="/footers" style={{ textDecoration: 'none' }}>Zerodha.tech</a><br />
+            <a className='text-muted' href="/footers" style={{ textDecoration: 'none' }}>Open source</a><br />
+            <a className='text-muted' href="/footers" style={{ textDecoration: 'none' }}>Press & media</a><br />
+            <a className='text-muted' href="/footers" style={{ textDecoration: 'none' }}>Zerodha Cares (CSR)</a><br />
           </div>
 
           <div className='col'>
             <p>Support</p>
-            <a className='text-muted' href=" " style={{ textDecoration: 'none' }}>Contact</a><br />
-            <a className='text-muted' href=" " style={{ textDecoration: 'none' }}>Support portal</a><br />
-            <a className='text-muted' href=" " style={{ textDecoration: 'none' }}>Z-Connect blog</a><br />
-            <a className='text-muted' href=" " style={{ textDecoration: 'none' }}>List of charges</a><br />
-            <a className='text-muted' href=" " style={{ textDecoration: 'none' }}>Downloads & resources</a><br />
+            <a className='text-muted' href="/contact" style={{ textDecoration: 'none' }}>Contact</a><br />
+            <a className='text-muted' href="/support" style={{ textDecoration: 'none' }}>Support portal</a><br />
+            <a className='text-muted' href="/connect" style={{ textDecoration: 'none' }}>Z-Connect blog</a><br />
+            <a className='text-muted' href="/charges" style={{ textDecoration: 'none' }}>List of charges</a><br />
+            <a className='text-muted' href="/resources" style={{ textDecoration: 'none' }}>Downloads & resources</a><br />
           </div>
 
           <div className='col'>
             <p>Account</p>
-            <a className='text-muted' href=" " style={{ textDecoration: 'none' }}>Open an account</a><br />
-            <a className='text-muted' href=" " style={{ textDecoration: 'none' }}>Fund transfer</a><br />
-            <a className='text-muted' href=" " style={{ textDecoration: 'none' }}>60 days challenge</a><br />
+            <a className='text-muted' href="/account" style={{ textDecoration: 'none' }}>Open an account</a><br />
+            <a className='text-muted' href="/account" style={{ textDecoration: 'none' }}>Fund transfer</a><br />
+            <a className='text-muted' href="/account" style={{ textDecoration: 'none' }}>60 days challenge</a><br />
           </div>
         </div>
  {/* Connect with us */}

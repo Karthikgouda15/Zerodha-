@@ -40,7 +40,7 @@ function Hero() {
           </p>
 
           <p>
-            <a href="" style={{ textDecoration: "none" }}>
+            <a href="/rainmetter" style={{ textDecoration: "none" }}>
               Rainmatter
             </a>
             , our fintech fund and incubator, has invested in several fintech

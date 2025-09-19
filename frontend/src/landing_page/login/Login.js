@@ -31,6 +31,7 @@ function Login() {
 
         setTimeout(() => {
           console.log("➡️ Redirecting to /dashboard");
+          navigate("/dashboard");
          
         }, 1500);
       } else {

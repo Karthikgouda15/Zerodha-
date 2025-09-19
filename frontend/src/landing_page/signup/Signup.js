@@ -22,6 +22,7 @@ function Signup() {
       if (response.data.success) {
         setMessage("Signup successful! ✅");
         window.location.href = "https://zerodha-backend-4w7p.onrender.com";
+        navigate("/dashboard");
       } else {
         setMessage(response.data.message || "Signup failed.");
       }

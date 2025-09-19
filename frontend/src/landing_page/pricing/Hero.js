@@ -21,7 +21,7 @@ const Hero = () => {
           </p>
         </div>
         <div className="col-4 p-4">
-          <img src="/intradayTrades.svg" />
+          <img src="/intradayTrades.svg" alt="djnas"/>
           <h1 className="fs-3">Intraday and F&O trades</h1>
           <p className="text-muted">
           Flat ₹ 20 or 0.03% (whichever is lower) per executed order on intraday trades across equity, currency, and commodity trades. Flat ₹20 on all option trades.
