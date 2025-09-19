@@ -13,7 +13,7 @@ const Hero = () => {
 
       <div className="row p-5 mt-5 text-center">
         <div className="col-4 p-4">
-          <img src="/pricingEquity.svg" />
+          <img src="/pricingEquity.svg"  alt="sjkndf"/>
           <h1 className="fs-3">Free equity delivery</h1>
           <p className="text-muted">
             All equity delivery investments (NSE, BSE), are absolutely free — ₹
@@ -28,7 +28,7 @@ const Hero = () => {
           </p>
         </div>
         <div className="col-4 p-4">
-          <img src="/pricingEquity.svg" />
+          <img src="/pricingEquity.svg" alt="sadjfn" />
           <h1 className="fs-3">Free direct MF</h1>
           <p className="text-muted">
           All direct mutual fund investments are absolutely free — ₹ 0 commissions & DP charges.

@@ -20,12 +20,12 @@ function Stats() {
         
 
     <div className="col-6 p-5">
-        <img src="/ecosystem.png" style={{width:"90%"}}/>
+        <img src="/ecosystem.png" style={{width:"90%"}} alt='ecos'/>
         <div className='text-center'>
-            <a href="" className='mx-5' style={{textDecoration:"none"}}>Exlore our Products{" "} 
+            <a href="/explore" className='mx-5' style={{textDecoration:"none"}}>Exlore our Products{" "} 
             <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
             </a>
-            <a href="" style={{textDecoration:"none"}}>
+            <a href="/explore" style={{textDecoration:"none"}}>
                 Try Kite demo{" "} 
                 <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
                 </a>

@@ -9,35 +9,35 @@ import React from "react";
            <h4 className="">
              <i class="fa fa-plus-circle" aria-hidden="true"></i> Account Opening
            </h4>
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/Online" style={{ textDecoration: "none", lineHeight: "2.5" }}>
              Online Account Opening
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/Offline" style={{ textDecoration: "none", lineHeight: "2.5" }}>
              Offline Account Opening
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/company" style={{ textDecoration: "none", lineHeight: "2.5" }}>
              Company, Partnership and HUF Account
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/Opening" style={{ textDecoration: "none", lineHeight: "2.5" }}>
              Opening
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/NRi" style={{ textDecoration: "none", lineHeight: "2.5" }}>
              NRI Account Opening
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/Charges" style={{ textDecoration: "none", lineHeight: "2.5" }}>
              Charges at Zerodha
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/Zerodha" style={{ textDecoration: "none", lineHeight: "2.5" }}>
              Zerodha IDFC FIRST Bank 3-in-1 Account
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/Getting" style={{ textDecoration: "none", lineHeight: "2.5" }}>
              Getting Started
            </a>
            <br />
@@ -46,23 +46,23 @@ import React from "react";
            <h4 className="">
            <i class="fa fa-circle-o" aria-hidden="true"></i>  Coin
            </h4>
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/Understanding" style={{ textDecoration: "none", lineHeight: "2.5" }}>
              Understanding mutual funds and Coin </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/Coin" style={{ textDecoration: "none", lineHeight: "2.5" }}>
            Coin app
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/coin" style={{ textDecoration: "none", lineHeight: "2.5" }}>
            Coin web
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/Transactions" style={{ textDecoration: "none", lineHeight: "2.5" }}>
            Transactions and reports
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-             NNational Pension Scheme (NPS)
+           <a href="/National" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+             National Pension Scheme (NPS)
            </a>
            
            <br />
@@ -71,23 +71,23 @@ import React from "react";
            <h4 className="">
            <i class="fa fa-user-o" aria-hidden="true"></i> Your Zerodha Account
            </h4>
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/profile" style={{ textDecoration: "none", lineHeight: "2.5" }}>
            Your Profile
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/account" style={{ textDecoration: "none", lineHeight: "2.5" }}>
            Account modification
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/client" style={{ textDecoration: "none", lineHeight: "2.5" }}>
            Client Master Report (CMR) and Depository Participant (DP)
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/nomination" style={{ textDecoration: "none", lineHeight: "2.5" }}>
            Nomination
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/transfer" style={{ textDecoration: "none", lineHeight: "2.5" }}>
            Transfer and conversion of securities
            </a>
            
@@ -98,27 +98,27 @@ import React from "react";
            <i class="fa fa-bar-chart" aria-hidden="true"></i>
  Kite
            </h4>
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/IPO" style={{ textDecoration: "none", lineHeight: "2.5" }}>
            IPO
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/Trading" style={{ textDecoration: "none", lineHeight: "2.5" }}>
            Trading FAQs
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/Margin" style={{ textDecoration: "none", lineHeight: "2.5" }}>
            Margin Trading Facility (MTF) and Margins
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/Charts" style={{ textDecoration: "none", lineHeight: "2.5" }}>
            Charts and orders
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/alerts" style={{ textDecoration: "none", lineHeight: "2.5" }}>
            Alerts and Nudges
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/general" style={{ textDecoration: "none", lineHeight: "2.5" }}>
            General
            </a>
            
@@ -127,19 +127,19 @@ import React from "react";
            <h4 className="">
            <i class="fa fa-credit-card" aria-hidden="true"></i> Funds
            </h4>
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/Add" style={{ textDecoration: "none", lineHeight: "2.5" }}>
            Add money
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/Withdraw" style={{ textDecoration: "none", lineHeight: "2.5" }}>
            Withdraw money
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/add" style={{ textDecoration: "none", lineHeight: "2.5" }}>
            Add bank accounts
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/mandates" style={{ textDecoration: "none", lineHeight: "2.5" }}>
            eMandates
            </a>
            
@@ -149,28 +149,28 @@ import React from "react";
            <h4 className="">
            <i class="fa fa-circle" aria-hidden="true"></i> Console
            </h4>
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/portfolio" style={{ textDecoration: "none", lineHeight: "2.5" }}>
            Portfolio
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/corporate" style={{ textDecoration: "none", lineHeight: "2.5" }}>
            Corporate actions
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/funds" style={{ textDecoration: "none", lineHeight: "2.5" }}>
            Funds statement
 
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/reports" style={{ textDecoration: "none", lineHeight: "2.5" }}>
            Reports
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/profile" style={{ textDecoration: "none", lineHeight: "2.5" }}>
            Profile
            </a>
            <br />
-           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+           <a href="/segments" style={{ textDecoration: "none", lineHeight: "2.5" }}>
            Segments
            </a>
            

@@ -29,18 +29,18 @@ function Footer() {
 
           <div className='col'>
             <p>Support</p>
-            <a className='text-muted' href="#" style={{ textDecoration: 'none' }}>Contact</a><br />
-            <a className='text-muted' href="#" style={{ textDecoration: 'none' }}>Support portal</a><br />
-            <a className='text-muted' href="#" style={{ textDecoration: 'none' }}>Z-Connect blog</a><br />
-            <a className='text-muted' href="#" style={{ textDecoration: 'none' }}>List of charges</a><br />
-            <a className='text-muted' href="#" style={{ textDecoration: 'none' }}>Downloads & resources</a><br />
+            <a className='text-muted' href=" " style={{ textDecoration: 'none' }}>Contact</a><br />
+            <a className='text-muted' href=" " style={{ textDecoration: 'none' }}>Support portal</a><br />
+            <a className='text-muted' href=" " style={{ textDecoration: 'none' }}>Z-Connect blog</a><br />
+            <a className='text-muted' href=" " style={{ textDecoration: 'none' }}>List of charges</a><br />
+            <a className='text-muted' href=" " style={{ textDecoration: 'none' }}>Downloads & resources</a><br />
           </div>
 
           <div className='col'>
             <p>Account</p>
-            <a className='text-muted' href="#" style={{ textDecoration: 'none' }}>Open an account</a><br />
-            <a className='text-muted' href="#" style={{ textDecoration: 'none' }}>Fund transfer</a><br />
-            <a className='text-muted' href="#" style={{ textDecoration: 'none' }}>60 days challenge</a><br />
+            <a className='text-muted' href=" " style={{ textDecoration: 'none' }}>Open an account</a><br />
+            <a className='text-muted' href=" " style={{ textDecoration: 'none' }}>Fund transfer</a><br />
+            <a className='text-muted' href=" " style={{ textDecoration: 'none' }}>60 days challenge</a><br />
           </div>
         </div>
  {/* Connect with us */}
